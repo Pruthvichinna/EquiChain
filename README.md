@@ -58,15 +58,13 @@ EqualChain automatically:
 ## 📂 Folder Structure
 
 ```
-EqualChain/
-├── app.py                        # Streamlit main dashboard app
-├── scoring.py                    # Scoring logic functions
-├── utils.py                      # Preprocessing + merge logic
-├── /data                         # Raw & cleaned datasets
-├── /assets                       # Images, thumbnails, icons
-├── README.md                     # Project overview (this file)
-├── requirements.txt              # Required Python packages
-└── EqualChain_Merged_Cleaned_Final.csv
+Walmart/
+├── EquiChain.py                           # Main Streamlit dashboard app
+├── EqualChain_Merged_Cleaned_Final.csv   # Cleaned merged dataset
+├── green_supply_chain_dataset_1000.csv   # Supporting dataset
+├── SupplyChainGHGEmissionFactors_v1.csv  # Emission factors reference
+├── README.md                              # Project overview and usage guide
+
 ```
 
 ---
