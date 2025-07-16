@@ -88,3 +88,8 @@ Walmart/
 | Dhnaush           | Data Engineer    | Preprocessing, data merging, error handling |
 | Mohan Krishna     | Frontend Dev     | Streamlit design, interactivity             |
 | Paraser           | Analyst/Presenter| Storyboarding, pitch, and presentation prep |
+
+---
+
+## Youtube Link:
+**https://youtu.be/cGSJdguWcyQ**
